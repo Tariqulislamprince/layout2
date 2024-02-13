@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.complex{
+    display: flex;height: 600px;
+}
+
+.left{ height:100%;
+    width: 25%;
+     background-color:brown ;
+color: white;
+text-align: center;
+}
+
+.middel{
+    
+    height: 100%;
+     width: 50%;
+}
+.middel_fist{height: 25%;
+    
+    background-color:gold;
+    color: white;
+    text-align: center}
+
+.middel_second{height: 50%;
+   
+    background-color:teal;
+    color: white;
+    text-align: center}
+
+.middel_third{height: 25%;
+    
+    background-color:hotpink;
+    color: white;
+    text-align: center}
+
+.right{height: 100%;
+    width: 25%;
+    background-color:navy;
+    color: white;text-align: center;}
